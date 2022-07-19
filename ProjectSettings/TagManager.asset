@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - Trap
+  - ShieldsContainer
+  - Enemy
+  - MoveToPlace
+  - Exit
+  - Trash
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Blocking
+  - Shield
+  - Enemy
+  - BlockingOnlyPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Object
+    uniqueID: 1557998619
+    locked: 0
+  - name: Essence
+    uniqueID: 538950683
+    locked: 0
+  - name: Decoration
+    uniqueID: 3321821075
+    locked: 0
+  - name: Effect
+    uniqueID: 1988956003
+    locked: 0
